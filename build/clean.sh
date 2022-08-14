@@ -1,4 +1,4 @@
 #!/bin/bash
 set -e
 
-rm -f ./nad11
+rm -f ./shbr-devops
