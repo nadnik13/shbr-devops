@@ -1,6 +1,6 @@
 FROM ubuntu:focal
 
-WORKDIR /shbr-echo
+WORKDIR /nad11
 
-COPY java /shbr-echo/java
-COPY python /shbr-echo/python
+COPY java /nad11/java
+COPY python /nad11/python
