@@ -1,4 +1,4 @@
 #!/bin/bash
 set -e
 
-rm -f ./shbr-echo
+rm -f ./nad11
