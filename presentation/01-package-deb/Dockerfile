@@ -34,8 +34,8 @@ USER shbr
 
 # наш проект
 ADD build /shbr-echo/build
-RUN sudo chown -R shbr:shbr /shbr-echo
-RUN sudo chmod -R 755 /shbr-echo
-WORKDIR /shbr-echo
+RUN sudo chown -R shbr:shbr /nad11
+RUN sudo chmod -R 755 /nad11
+WORKDIR /nad11
 
 ENTRYPOINT ["/bin/bash"]
