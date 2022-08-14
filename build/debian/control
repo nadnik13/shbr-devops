@@ -2,9 +2,7 @@ Source: nad11
 Section: devel
 Priority: optional
 Maintainer: Nadezhda Sedanova <nadsedanova@yandex.ru>
-Build-Depends: build-essential, debhelper (>= 9), oracle-java17-installer
 
-Package: shbr-echo
+Package: nad11
 Architecture: amd64
-Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: nad11 server
