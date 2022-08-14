@@ -12,4 +12,4 @@ override_dh_auto_build:
 	./build.sh
 
 override_dh_auto_install:
-	env DESTDIR=debian/shbr-echo ./install.sh
+	env DESTDIR=debian/nad11 ./install.sh
